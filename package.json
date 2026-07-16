@@ -104,7 +104,7 @@
     }
   },
   "dependencies": {
-    "acorn-walk": "8.3.4",
-    "minimatch": "7.4.6"
+    "acorn-walk": "^8.3.4",
+    "minimatch": "^7.4.9"
   }
 }
